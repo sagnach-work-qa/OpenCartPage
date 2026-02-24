@@ -1,0 +1,55 @@
+19:43:36.185 [TestNG-tests-1] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:14)oggger - ***** Starting TC1 *****
+19:43:49.577 [TestNG-tests-1] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:20)oggger - Providing customer details
+19:44:07.076 [TestNG-tests-1] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:33)oggger - Validating expected message..
+19:44:07.168 [TestNG-tests-3] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:14)oggger - ***** Starting TC1 *****
+19:44:08.420 [TestNG-tests-1] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:42)oggger - ***** Finished TC1 *****
+19:44:11.967 [TestNG-tests-3] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:20)oggger - Providing customer details
+19:44:18.906 [TestNG-tests-3] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:33)oggger - Validating expected message..
+19:44:23.276 [TestNG-tests-3] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:42)oggger - ***** Finished TC1 *****
+19:55:49.976 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\master.xml
+
+19:55:57.018 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:14)oggger - ***** Starting TC1 *****
+19:55:58.418 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:20)oggger - Providing customer details
+19:56:00.420 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:33)oggger - Validating expected message..
+19:56:00.487 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:42)oggger - ***** Finished TC1 *****
+20:36:32.948 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\master.xml
+
+20:37:32.233 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\master.xml
+
+20:38:00.468 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\master.xml
+
+20:38:05.746 [main] INFO  testcases.LoginTest.verify_login(LoginTest.java:14)oggger - *** Starting LoginTest1 ***
+20:38:07.612 [main] INFO  testcases.LoginTest.verify_login(LoginTest.java:34)oggger - *** Finished LoginTest1
+20:38:44.635 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\master.xml
+
+20:38:48.647 [main] INFO  testcases.LoginTest.verify_login(LoginTest.java:14)oggger - *** Starting LoginTest1 ***
+20:38:55.520 [main] INFO  testcases.LoginTest.verify_login(LoginTest.java:35)oggger - *** Finished LoginTest1
+20:39:31.689 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\master.xml
+
+20:39:35.442 [main] INFO  testcases.LoginTest.verify_login(LoginTest.java:14)oggger - *** Starting LoginTest1 ***
+20:39:47.910 [main] INFO  testcases.LoginTest.verify_login(LoginTest.java:36)oggger - *** Finished LoginTest1
+20:40:55.235 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\master.xml
+
+20:40:58.874 [main] INFO  testcases.LoginTest.verify_login(LoginTest.java:14)oggger - *** Starting LoginTest1 ***
+20:41:11.295 [main] INFO  testcases.LoginTest.verify_login(LoginTest.java:36)oggger - *** Finished LoginTest1
+19:13:51.833 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\master.xml
+
+19:14:03.755 [main] INFO  testcases.LoginDDT.verify_loginDDT(LoginDDT.java:16)oggger - ***Starting LoginDDT***
+19:14:06.576 [main] INFO  testcases.LoginDDT.verify_loginDDT(LoginDDT.java:52)oggger - ***Finished LoginDDT***
+19:14:06.605 [main] INFO  testcases.LoginDDT.verify_loginDDT(LoginDDT.java:16)oggger - ***Starting LoginDDT***
+19:14:08.624 [main] INFO  testcases.LoginDDT.verify_loginDDT(LoginDDT.java:16)oggger - ***Starting LoginDDT***
+19:14:11.186 [main] INFO  testcases.LoginDDT.verify_loginDDT(LoginDDT.java:16)oggger - ***Starting LoginDDT***
+19:14:43.010 [main] INFO  testcases.LoginDDT.verify_loginDDT(LoginDDT.java:52)oggger - ***Finished LoginDDT***
+19:14:43.030 [main] INFO  testcases.LoginDDT.verify_loginDDT(LoginDDT.java:16)oggger - ***Starting LoginDDT***
+19:29:58.701 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\master.xml
+
+19:30:04.806 [main] INFO  testcases.LoginDDT.verify_loginDDT(LoginDDT.java:16)oggger - ***Starting LoginDDT***

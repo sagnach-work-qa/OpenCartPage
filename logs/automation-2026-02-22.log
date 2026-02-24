@@ -1,0 +1,40 @@
+00:25:04.559 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+00:25:08.787 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:14)oggger - ***** Starting TC1 *****
+00:25:09.557 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:20)oggger - Providing customer details
+00:25:11.280 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:33)oggger - Validating expected message..
+00:25:23.957 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@75f2099: 127 ms
+00:25:23.981 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@4b1c0397: 22 ms
+00:25:24.003 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@5b3f3ba0: 21 ms
+00:25:24.019 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@19593091: 16 ms
+00:25:24.039 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4e868ef5: 18 ms
+00:25:24.039 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@71c905a3: 0 ms
+19:28:09.251 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\testng.xml
+
+19:28:09.376 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:14)oggger - ***** Starting TC1 *****
+19:28:09.426 [main] ERROR testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:37)oggger - Test failed..
+19:29:20.741 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\testng.xml
+
+19:29:27.722 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:14)oggger - ***** Starting TC1 *****
+19:29:29.603 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:20)oggger - Providing customer details
+19:29:31.421 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:33)oggger - Validating expected message..
+19:29:31.493 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:42)oggger - ***** Finished TC1 *****
+19:40:02.588 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\crossbrowsertesting.xml
+
+19:40:07.073 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:14)oggger - ***** Starting TC1 *****
+19:40:08.564 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:20)oggger - Providing customer details
+19:40:11.601 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:33)oggger - Validating expected message..
+19:40:11.671 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:42)oggger - ***** Finished TC1 *****
+19:40:22.966 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:14)oggger - ***** Starting TC1 *****
+19:40:23.607 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:20)oggger - Providing customer details
+19:40:26.364 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:33)oggger - Validating expected message..
+19:40:26.410 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:42)oggger - ***** Finished TC1 *****
+19:42:04.940 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:14)oggger - ***** Starting TC1 *****
+19:42:08.017 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:20)oggger - Providing customer details
+19:42:15.875 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:33)oggger - Validating expected message..
+19:42:16.419 [main] INFO  testcases.AccountRegistrationTest.verify_account_registration(AccountRegistrationTest.java:42)oggger - ***** Finished TC1 *****
+19:43:09.647 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Automation\OpenCartProject\crossbrowsertesting.xml
+
